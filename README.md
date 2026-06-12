@@ -1,4 +1,4 @@
-Fraud Detection in Financial Transactions
+### Fraud Detection in Financial Transactions
 This project is focused on building a machine learning pipeline to proactively detect fraudulent financial transactions using a large-scale dataset (6.3M+ rows). The goal is to identify and understand fraudulent patterns, enhance detection accuracy, and propose actionable security measures for financial institutions.
 
 📊 Dataset Overview
